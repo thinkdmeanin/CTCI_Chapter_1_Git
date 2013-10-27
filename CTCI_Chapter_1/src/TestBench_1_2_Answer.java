@@ -1,5 +1,6 @@
 public class TestBench_1_2_Answer {
-	public static void reverse(char* str) {
+	public static void reverse(char* str) {	
+		// it turns out char* is not valid in java
 //		char *end = str;
 //		char tmp;
 //		if(str) {
