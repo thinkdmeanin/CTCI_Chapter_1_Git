@@ -6,6 +6,7 @@ public class TestBench_1_5 {
 		StringBuffer result = new StringBuffer();
 		for (String word : words) {
 			result.append(word);	// and combine
+			result.append("%20");
 		}
 		return result.toString(); // return converted
 	}
