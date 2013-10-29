@@ -37,6 +37,7 @@ public class TestBench_1_6 {
 		System.out.println();
 		
 	}
+	
 	public static void main (String[] args) {
 		int[][] mat = {{1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}, {1, 2, 3, 4, 5, 6, 7}};
 		System.out.println("The Original Matrix:");
